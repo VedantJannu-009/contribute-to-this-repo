@@ -70,15 +70,15 @@ export let template: Card[] = [
     ],
     socials: [
       {
-        name: "SOCIAL 1",
+        name: "github",
         url: "https://typesafe-rusty.github.io/contribute-to-this-repo/",
       },
       {
-        name: "SOCIAL 2",
+        name: "linkedin",
         url: "https://typesafe-rusty.github.io/contribute-to-this-repo/",
       },
       {
-        name: "SOCIAL 3",
+        name: "appleMusic",
         url: "https://typesafe-rusty.github.io/contribute-to-this-repo/",
       },
     ],
